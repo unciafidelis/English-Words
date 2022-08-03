@@ -1,4 +1,4 @@
-# englishwords
+# English Words
 
 A new Flutter project.
 
